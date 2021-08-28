@@ -6,11 +6,12 @@ Fork this repository. Watch the full tutorial of TeLe TiPs - Telegram on YouTube
 <img src="https://telegra.ph/file/d5df9ef11f35c848c77e5.jpg">
 <p>
 
-#SECRETS
-  CREDS
-  GitHubName = Your GitHub username
-  GitHubMail = Your GitHub E-mail
-  GH_TOKEN
+# SECRETS
+  
+CREDS
+GitHubName = Your GitHub username
+GitHubMail = Your GitHub E-mail
+GH_TOKEN
   
   
   
