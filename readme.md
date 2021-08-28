@@ -7,11 +7,11 @@ Fork this repository. Watch the full tutorial of TeLe TiPs - Telegram on YouTube
 <p>
 
 # SECRETS
-  
-CREDS\n
-GitHubName = Your GitHub username\n
-GitHubMail = Your GitHub E-mail\n
+```  
+CREDS
+GitHubName = Your GitHub username
+GitHubMail = Your GitHub E-mail
 GH_TOKEN
-  
+```  
   
   
